@@ -20,6 +20,10 @@ This project automates that prediction using **supervised learning** as part of 
 ---
 
 ## 📂 Repository Structure
+├─ notebook.ipynb # full workflow (cleaning, EDA, modeling)
+├─ recipe_site_traffic_2212.csv # dataset used in the project
+├─ download.png # optional project banner
+└─ README.md # this file
 
 ---
 
